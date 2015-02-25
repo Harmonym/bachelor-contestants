@@ -1,0 +1,216 @@
+{  
+   "seasons":{  
+      "9":[  
+         {  
+            "name":"Becca Tilley",
+            "age":"26",
+            "hometown":"Shreveport, Louisiana",
+            "occupation":"Chiropractic Assistant",
+            "status":null
+         },
+         {  
+            "name":"Whitney Bischoff",
+            "age":"29",
+            "hometown":"Chicago, Illinois",
+            "occupation":"Fertility Nurse",
+            "status":null
+         },
+         {  
+            "name":"Kaitlyn Bristowe",
+            "age":"29",
+            "hometown":"Leduc, Alberta",
+            "occupation":"Dance Instructor",
+            "status":"Eliminated in week 9"
+         },
+         {  
+            "name":"Jade Roper",
+            "age":"28",
+            "hometown":"Los Angeles, California",
+            "occupation":"Cosmetics Developer",
+            "status":"Eliminated in week 8"
+         },
+         {  
+            "name":"Carly Waddell",
+            "age":"29",
+            "hometown":"Arlington, Texas",
+            "occupation":"Cruise Ship Singer",
+            "status":"Eliminated in week 7"
+         },
+         {  
+            "name":"Britt Nilsson",
+            "age":"27",
+            "hometown":"Hollywood, California",
+            "occupation":"Waitress",
+            "status":"Withdrew in week 7"
+         },
+         {  
+            "name":"Megan Bell",
+            "age":"24",
+            "hometown":"Nashville, Tennessee",
+            "occupation":"Make-Up Artist",
+            "status":"Quit in week 6"
+         },
+         {  
+            "name":"Kelsey Poe",
+            "age":"28",
+            "hometown":"Hudsonville, Michigan",
+            "occupation":"Guidance Counselor",
+            "status":"Eliminated in week 6"
+         },
+         {  
+            "name":"Ashley Iaconetti",
+            "age":"26",
+            "hometown":"Great Falls, Virginia",
+            "occupation":"Nanny/Freelance Journalist",
+            "status":"Eliminated in week 6"
+         },
+         {  
+            "name":"Mackenzie Deonigi",
+            "age":"21",
+            "hometown":"Maple Valley, Washington",
+            "occupation":"Dental Assistant",
+            "status":"Eliminated in week 5"
+         },
+         {  
+            "name":"Samantha Steffen",
+            "age":"27",
+            "hometown":"Indianapolis, Indiana",
+            "occupation":"Fashion Designer",
+            "status":"Eliminated in week 5"
+         },
+         {  
+            "name":"Ashley Salter",
+            "age":"24",
+            "hometown":"Brooklyn, New York",
+            "occupation":"Hair Stylist",
+            "status":"Eliminated in week 4"
+         },
+         {  
+            "name":"Juelia Kinney",
+            "age":"30",
+            "hometown":"Portland, Oregon",
+            "occupation":"Esthetician",
+            "status":"Eliminated in week 4"
+         },
+         {  
+            "name":"Nikki Delventhal",
+            "age":"26",
+            "hometown":"New York, New York",
+            "occupation":"Former NFL Cheerleader",
+            "status":"Eliminated in week 4"
+         },
+         {  
+            "name":"Jillian Anderson",
+            "age":"25",
+            "hometown":"Howland, Ohio",
+            "occupation":"News Producer",
+            "status":"Eliminated in week 4"
+         },
+         {  
+            "name":"Amber James",
+            "age":"29",
+            "hometown":"Kankakee, Illinois",
+            "occupation":"Bartender",
+            "status":"Eliminated in week 3"
+         },
+         {  
+            "name":"Tracy Darakis",
+            "age":"29",
+            "hometown":"Wellington, Florida",
+            "occupation":"Fourth Grade Teacher",
+            "status":"Eliminated in week 3"
+         },
+         {  
+            "name":"Trina Scherenberg",
+            "age":"33",
+            "hometown":"Algonquin, Illinois",
+            "occupation":"Special Education Teacher",
+            "status":"Eliminated in week 3"
+         },
+         {  
+            "name":"Alissa Giambrone",
+            "age":"24",
+            "hometown":"Hamilton, New Jersey",
+            "occupation":"Flight Attendant",
+            "status":"Eliminated in week 2"
+         },
+         {  
+            "name":"Jordan Branch",
+            "age":"24",
+            "hometown":"Windsor, Colorado",
+            "occupation":"Student",
+            "status":"Eliminated in week 2\nReturned and left again in week 5"
+         },
+         {  
+            "name":"Kimberly Sherbach",
+            "age":"28",
+            "hometown":"Wantagh, New York",
+            "occupation":"Yoga Instructor",
+            "status":"Eliminated in week 2\nReturned in week 2Eliminated in week 1"
+         },
+         {  
+            "name":"Tandra Steiner",
+            "age":"30",
+            "hometown":"Sandy, Utah",
+            "occupation":"Executive Assistant",
+            "status":"Eliminated in week 2"
+         },
+         {  
+            "name":"Tara Eddings",
+            "age":"26",
+            "hometown":"Fort Lauderdale, Florida",
+            "occupation":"Sport Fishing Enthusiast",
+            "status":"Eliminated in week 2"
+         },
+         {  
+            "name":"Amanda Goerlitz",
+            "age":"24",
+            "hometown":"Lake in the Hills, Illinois",
+            "occupation":"Ballet Teacher",
+            "status":"Eliminated in week 1"
+         },
+         {  
+            "name":"Bo Stanley",
+            "age":"25",
+            "hometown":"Carpinteria, California",
+            "occupation":"Plus-Size Model",
+            "status":"Eliminated in week 1"
+         },
+         {  
+            "name":"Brittany Fetkin",
+            "age":"26",
+            "hometown":"Orlando, Florida",
+            "occupation":"WWE Diva-in-Training",
+            "status":"Eliminated in week 1"
+         },
+         {  
+            "name":"Kara Wilson",
+            "age":"25",
+            "hometown":"Brownsville, Kentucky",
+            "occupation":"High School Soccer Coach",
+            "status":"Eliminated in week 1"
+         },
+         {  
+            "name":"Michelle Davis",
+            "age":"25",
+            "hometown":"Provo, Utah",
+            "occupation":"Wedding Cake Decorator",
+            "status":"Eliminated in week 1"
+         },
+         {  
+            "name":"Nicole",
+            "age":"31",
+            "hometown":"Scottsdale, Arizona",
+            "occupation":"Real Estate Agent",
+            "status":"Eliminated in week 1"
+         },
+         {  
+            "name":"Reegan Cornwell",
+            "age":"28",
+            "hometown":"Manhattan Beach, California",
+            "occupation":"Cadaver Tissue Saleswoman",
+            "status":"Eliminated in week 1"
+         }
+      ]
+   }
+}
