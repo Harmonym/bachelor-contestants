@@ -1,5 +1,196 @@
 {  
-   "seasons":{  
+   "season":{  
+      "18":[  
+         {  
+            "name":"Nikki Ferrell",
+            "age":"26",
+            "hometown":"Kearney, Missouri",
+            "occupation":"Pediatric Nurse",
+            "status":"Winner"
+         },
+         {  
+            "name":"Clare Crawley",
+            "age":"32",
+            "hometown":"Sacramento, California",
+            "occupation":"Hairstylist",
+            "status":"Runner-up"
+         },
+         {  
+            "name":"Andi Dorfman",
+            "age":"26",
+            "hometown":"Atlanta, Georgia",
+            "occupation":"Assistant District Attorney",
+            "status":"Quit in week 9"
+         },
+         {  
+            "name":"Renee Oteri",
+            "age":"32",
+            "hometown":"Martha's Vineyard, Massachusetts",
+            "occupation":"Real Estate Agent",
+            "status":"Eliminated in week 8"
+         },
+         {  
+            "name":"Chelsie Webster",
+            "age":"24",
+            "hometown":"Lexington, Ohio",
+            "occupation":"Science Educator",
+            "status":"Eliminated in week 7"
+         },
+         {  
+            "name":"Sharleen Joynt",
+            "age":"29",
+            "hometown":"Ottawa, Ontario",
+            "occupation":"Opera Singer",
+            "status":"Withdrew in week 7"
+         },
+         {  
+            "name":"Kat Hurd",
+            "age":"29",
+            "hometown":"Iowa City, Iowa",
+            "occupation":"Medical Sales Representative/NBA Dancer",
+            "status":"Eliminated in week 6"
+         },
+         {  
+            "name":"Cassandra Ferguson",
+            "age":"22",
+            "hometown":"Shelby Charter Township, Michigan",
+            "occupation":"Former NBA Dancer",
+            "status":"Eliminated in week 6"
+         },
+         {  
+            "name":"Alli Restko",
+            "age":"26",
+            "hometown":"Orland Park, Illinois",
+            "occupation":"Nanny",
+            "status":"Eliminated in week 5"
+         },
+         {  
+            "name":"Danielle Ronco",
+            "age":"25",
+            "hometown":"Litchfield, Illinois",
+            "occupation":"Psychiatric Nurse",
+            "status":"Eliminated in week 5"
+         },
+         {  
+            "name":"Kelly Travis",
+            "age":"27",
+            "hometown":"Conyers, Georgia",
+            "occupation":"Dog Lover",
+            "status":"Eliminated in week 5"
+         },
+         {  
+            "name":"Elise Mosca",
+            "age":"27",
+            "hometown":"Forty Fort, Pennsylvania",
+            "occupation":"First Grade Teacher",
+            "status":"Eliminated in week 4"
+         },
+         {  
+            "name":"Lauren Solomon",
+            "age":"26",
+            "hometown":"Austin, Texas",
+            "occupation":"Music Composer",
+            "status":"Eliminated in week 4"
+         },
+         {  
+            "name":"Christy Hansen",
+            "age":"24",
+            "hometown":"Aurora, Illinois",
+            "occupation":"Marketing Manager",
+            "status":"Eliminated in week 3"
+         },
+         {  
+            "name":"Lucinda \"Lucy\" Aragon",
+            "age":"25",
+            "hometown":"Santa Barbara, California",
+            "occupation":"Free Spirit",
+            "status":"Eliminated in week 3"
+         },
+         {  
+            "name":"Amy Long",
+            "age":"27",
+            "hometown":"Clermont, Florida",
+            "occupation":"Local News Reporter",
+            "status":"Eliminated in week 2"
+         },
+         {  
+            "name":"Chantel Forrest",
+            "age":"27",
+            "hometown":"Miami, Florida",
+            "occupation":"Account Manager",
+            "status":"Eliminated in week 2"
+         },
+         {  
+            "name":"Victoria Lima",
+            "age":"24",
+            "hometown":"Porto Alegre, Brazil",
+            "occupation":"Legal Assistant",
+            "status":"Eliminated in week 2"
+         },
+         {  
+            "name":"Alexis Morgado",
+            "age":"24",
+            "hometown":"Tampa, Florida",
+            "occupation":"Communications Director/NHL Ice Girl",
+            "status":"Eliminated in week 1"
+         },
+         {  
+            "name":"Amy Jokinen",
+            "age":"31",
+            "hometown":"Apopka, Florida",
+            "occupation":"Massage Therapist",
+            "status":"Eliminated in week 1"
+         },
+         {  
+            "name":"Ashley Poe",
+            "age":"25",
+            "hometown":"Roanoke, Texas",
+            "occupation":"Grade School Teacher",
+            "status":"Eliminated in week 1"
+         },
+         {  
+            "name":"Christine Llano",
+            "age":"23",
+            "hometown":"Miami, Florida",
+            "occupation":"Police Support Specialist",
+            "status":"Eliminated in week 1"
+         },
+         {  
+            "name":"Kylie Lewis",
+            "age":"23",
+            "hometown":"Rockford, Illinois",
+            "occupation":"Interior Designer",
+            "status":"Eliminated in week 1"
+         },
+         {  
+            "name":"Lacy Faddoul",
+            "age":"25",
+            "hometown":"Antelope Acres, California",
+            "occupation":"Nursing Home Owner",
+            "status":"Eliminated in week 1"
+         },
+         {  
+            "name":"Lauren Higginson",
+            "age":"25",
+            "hometown":"Edmond, Oklahoma",
+            "occupation":"Mineral Coordinator",
+            "status":"Eliminated in week 1"
+         },
+         {  
+            "name":"Maggie Gantt",
+            "age":"25",
+            "hometown":"Wagener, South Carolina",
+            "occupation":"Personal Banker",
+            "status":"Eliminated in week 1"
+         },
+         {  
+            "name":"Valerie Eredia",
+            "age":"26",
+            "hometown":"Sutter, California",
+            "occupation":"Personal Trainer",
+            "status":"Eliminated in week 1"
+         }
+      ],
       "19":[  
          {  
             "name":"Becca Tilley",
